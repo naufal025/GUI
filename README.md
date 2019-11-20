@@ -1,0 +1,43 @@
+# GUI
+# Latihan 1
+![AltText](https://github.com/naufal025/GUI/blob/master/g1.PNG "Latihan 1")
+# Latihan 2
+![AltText](https://github.com/naufal025/GUI/blob/master/g2.PNG "Latihan 2")
+# Latihan 3(1)
+![AltText](https://github.com/naufal025/GUI/blob/master/g3(1).PNG "Latihan 3(1)")
+# Latihan 3(2)
+![AltText](https://github.com/naufal025/GUI/blob/master/g3(2).PNG "Latihan 3(2)")
+# Latihan 3(3)
+![AltText](https://github.com/naufal025/GUI/blob/master/g3(3).PNG "Latihan 3(3)")
+# Latihan 3(4)
+![AltText](https://github.com/naufal025/GUI/blob/master/g3(4).PNG "Latihan 3(4)")
+# Latihan 4
+![AltText](https://github.com/naufal025/GUI/blob/master/g4.PNG "Latihan 4")
+# Kuis 1(1)
+![AltText](https://github.com/naufal025/GUI/blob/master/g5(1).PNG "Kuis 1(1)")
+# Kuis 1(2)
+![AltText](https://github.com/naufal025/GUI/blob/master/g5(2).PNG "Kuis 1(2)")
+# Kuis 1(3)
+![AltText](https://github.com/naufal025/GUI/blob/master/g5(3).PNG "Kuis 1(3)")
+# Kuis 1(4)
+![AltText](https://github.com/naufal025/GUI/blob/master/g5(4).PNG "Kuis 1(4)")
+# Kuis 2(1)
+![AltText](https://github.com/naufal025/GUI/blob/master/g6(1).PNG "Kuis 2(1)")
+# Kuis 2(2)
+![AltText](https://github.com/naufal025/GUI/blob/master/g6(2).PNG "Kuis 2(2)")
+# Kuis 2(3)
+![AltText](https://github.com/naufal025/GUI/blob/master/g6(3).PNG "Kuis 2(3)")
+# Kuis 2(4)
+![AltText](https://github.com/naufal025/GUI/blob/master/g6(4).PNG "Kuis 2(4)")
+# Latihan 5
+![AltText](https://github.com/naufal025/GUI/blob/master/g7.PNG "Latihan 5")
+# Latihan 6
+![AltText](https://github.com/naufal025/GUI/blob/master/g8.PNG "Latihan 6")
+# Latihan 7(1)
+![AltText](https://github.com/naufal025/GUI/blob/master/g9.PNG "Latihan 7(1)")
+# Latihan 7(2)
+![AltText](https://github.com/naufal025/GUI/blob/master/g9(1).PNG "Latihan 7(2)")
+# Latihan 7(3)
+![AltText](https://github.com/naufal025/GUI/blob/master/g9(2).PNG "Latihan 7(3)")
+
+
