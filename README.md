@@ -39,5 +39,7 @@
 ![AltText](https://github.com/naufal025/GUI/blob/master/g9(1).PNG "Latihan 7(2)")
 # Latihan 7(3)
 ![AltText](https://github.com/naufal025/GUI/blob/master/g9(2).PNG "Latihan 7(3)")
+# Uji coba
+![AltText](https://github.com/naufal025/GUI/blob/master/g10.PNG "Uji coba")
 
 
